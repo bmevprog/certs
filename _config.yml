@@ -1,0 +1,5 @@
+minima:
+  skin: classic
+  include_css:
+    - /global.css
+

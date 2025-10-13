@@ -2,6 +2,5 @@ title: Your awesome title
 
 minima:
   skin: classic
-  include_css:
-    - /global.css
+
 
